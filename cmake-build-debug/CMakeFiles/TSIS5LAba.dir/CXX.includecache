@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbook/TSIS5LAba/main.cpp
+iostream
+-
+iomanip
+-
+random
+-
+vector
+-
+cmath
+-
+fstream
+/Users/macbook/TSIS5LAba/fstream
+
